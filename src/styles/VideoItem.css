@@ -1,0 +1,8 @@
+.container {
+    width: 300px;
+}
+
+img {
+    max-width: 300px;
+    min-width: 20px;
+}

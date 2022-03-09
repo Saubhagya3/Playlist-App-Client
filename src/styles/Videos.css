@@ -1,0 +1,14 @@
+.vidList {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 22% 22% 22% 22%;
+    column-gap: 4%;
+    row-gap: 5%;
+}
+
+/* stopped here - out of time */
+@media screen and (max-width: 800px) {
+    .vidList {
+        grid-template-columns: 22% 22% 22%;
+    }
+  }
